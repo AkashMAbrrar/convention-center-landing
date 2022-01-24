@@ -1,9 +1,11 @@
+/* google font awsome */
 @import url("https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap");
 
 body {
   font-family: "Merriweather Sans", sans-serif;
   background-color: #e5e5e5;
 }
+/* somthing styles for top banner */
 .card-height {
   height: 400px;
   border-radius: 15px;
@@ -17,4 +19,12 @@ body {
 }
 .pepole-img {
   width: 80%;
+}
+/* footer and anchor styles */
+a {
+  text-decoration: none;
+  color: white;
+}
+footer {
+  background-color: #000000;
 }
