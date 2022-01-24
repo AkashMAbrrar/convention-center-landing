@@ -4,3 +4,14 @@ body {
   font-family: "Merriweather Sans", sans-serif;
   background-color: #e5e5e5;
 }
+.card-height {
+  height: 387px;
+  border-radius: 15px;
+}
+.card-three {
+  background-color: #3f87f5;
+  height: 415px;
+  padding-bottom: 25px;
+  border-radius: 15px;
+  color: white;
+}
