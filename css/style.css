@@ -28,3 +28,13 @@ a {
 footer {
   background-color: #000000;
 }
+/* a littlebit media queries into the external css */
+
+/* media queries for mobile devices */
+@media only screen and (max-width: 688px) {
+  .media-qur,
+  .media-qus {
+    flex-wrap: wrap;
+    background-color: tomato;
+  }
+}
