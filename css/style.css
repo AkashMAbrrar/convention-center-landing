@@ -5,7 +5,7 @@ body {
   background-color: #e5e5e5;
 }
 .card-height {
-  height: 387px;
+  height: 400px;
   border-radius: 15px;
 }
 .card-three {
@@ -14,4 +14,7 @@ body {
   padding-bottom: 25px;
   border-radius: 15px;
   color: white;
+}
+.pepole-img {
+  width: 80%;
 }
